@@ -6,4 +6,5 @@ for _ in range(t):
         count+=1
     else:
         continue
+
 print(count)
